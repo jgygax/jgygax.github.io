@@ -9,5 +9,5 @@ venue: 'Neuromorphic Computing and Engineering'
 paperurl: 'https://iopscience.iop.org/article/10.1088/2634-4386/ac97bb'
 preprinturl: 'https://arxiv.org/abs/2206.10226'
 codeurl: 'https://github.com/fmi-basel/stork'
-citation: 'Rossbroich, Julian*, <b>Gygax, Julia</b>*, & Zenke, F. (* equal contribution)'
+citation: 'Rossbroich, Julian*, <b>Gygax, Julia</b>*, & Zenke, Friedemann. (* equal contribution)'
 ---
