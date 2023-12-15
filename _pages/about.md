@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Julia Gygax"
-excerpt: "About me - Julia"
+title: "About me"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
