@@ -10,6 +10,16 @@ redirect_from:
 
 I am a PhD student in the lab of [Friedemann Zenke](https://zenkelab.org) at the [Friedrich Miescher Institute](https://fmi.ch), where I work in computational neuroscience and focus on understanding spiking neural networks.  
 
-Before that, I received a bachelor's degree in electrical engineering and information technology from [ETH Zürich](https://ee.ethz.ch/de/), the swiss federal institute of technology. During my final year, I was a member of the [Cardex](https://cardex.ethz.ch/) focus project team. We developed a transcatheter mitral valve repair simulator as a novel training technology for cardiovascular interventions.
+I completed my master's degree in biomedical engineering at [ETH Zürich](https://ee.ethz.ch/de/). During my master's I worked on a biologically plausible implementation of an autoencoder in spiking neural networks in Giacomo Indiveri's lab at [INI](https://www.ini.uzh.ch/en.html) and I wrote my master's thesis in Benjamin Grewe's lab on minimum norm optimization.
 
-Subsequently, I completed a master's degree in biomedical engineering at [ETH Zurich](https://ee.ethz.ch/de/). I focused more on computational neuroscience and wrote my master's thesis in Benjamin Grewe's lab.
+Before that, I received a bachelor's degree in electrical engineering and information technology from [ETH Zürich](https://ee.ethz.ch/de/). During my final year, I was a member of the [Cardex](https://cardex.ethz.ch/) focus project team. We developed a transcatheter mitral valve repair simulator as a novel training technology for cardiovascular interventions.
+
+
+### News
+- **2023-11-07:** [Flash talk](https://youtu.be/q8c7gIf9tpw?feature=shared&t=1132) and [Poster](https://snufa.net/2023/abstracts/julia-gygax-comparing.html) at [SNUFA 2023](https://snufa.net/2023/) - *Comparing surrogate gradients and likelihood-based training for spiking neural networks*
+- **2023-09-27:** [Poster](https://abstracts.g-node.org/conference/BC23/abstracts#/uuid/5d29dad2-4f00-4553-85ae-9fbf2819b99a) at [Bernstein Conference 2023](https://bernstein-network.de/en/bernstein-conference/) - *A comparative analysis of spiking network training with surrogate gradients and likelihood-based approaches*
+<!-- - **2023-06-12 - 2023-06-16:** Attending [Doctoral Class in Neurophysics](https://www.epfl.ch/labs/lcn/doctoral-class-in-neurophysics/) at EPFL -->
+- **2023-06-09:** Poster at [Early-Career Researchers Symposium 2023](https://www.yssn.ch/ers2023) in Lugano
+- **2023-02-01:** Talk at [Swiss Computational Neuroscience Retreat](https://www.epfl.ch/labs/lcn/swiss-computational-neuroscience-retreat-2023/) - *Insights into spiking network training: Influences of initialization and neuronal stochasticity*  
+- **2022-09-14:** Poster at [Bernstein Conference 2022](https://bernstein-network.de/en/bernstein-conference/), joint work with Julian Rossbroich - *Fluctuation-driven initialization for spiking neural network training*
+- **2021-11-03:** [Talk](https://www.youtube.com/watch?v=vC5EHUt7dQs&list=PL09WqqDbQWHEqm1_3a620tKUKnC6FgBrG&index=11) at [SNUFA 2021](http://snufa.net/2021/abstracts#optimal-initialization-strategies-for-deep-spiking-neural-networks) - *Optimal initialization strategies for deep spiking neural networks*
