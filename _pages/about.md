@@ -16,6 +16,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
 
 
 ## News
+- **2024-04-24:** Our new preprint [*Elucidating the Theoretical Underpinnings of Surrogate Gradient Learning in Spiking Neural Networks*]((https://arxiv.org/abs/2404.14964)) is available on arXiv
 - **2023-11-07:** [Flash talk](https://youtu.be/q8c7gIf9tpw?feature=shared&t=1132) and [Poster](https://snufa.net/2023/abstracts/julia-gygax-comparing.html) at [SNUFA 2023](https://snufa.net/2023/) - *Comparing surrogate gradients and likelihood-based training for spiking neural networks*
 - **2023-09-27:** [Poster](https://abstracts.g-node.org/conference/BC23/abstracts#/uuid/5d29dad2-4f00-4553-85ae-9fbf2819b99a) at [Bernstein Conference 2023](https://bernstein-network.de/en/bernstein-conference/) - *A comparative analysis of spiking network training with surrogate gradients and likelihood-based approaches*
 <!-- - **2023-06-12 - 2023-06-16:** Attending [Doctoral Class in Neurophysics](https://www.epfl.ch/labs/lcn/doctoral-class-in-neurophysics/) at EPFL -->
