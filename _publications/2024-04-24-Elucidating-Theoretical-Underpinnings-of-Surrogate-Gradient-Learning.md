@@ -6,7 +6,7 @@ excerpt: 'Training spiking neural networks (SNNs) to approximate complex functio
 date: 2024-04-24
 venue: 'arXiv'
 thumbnail: '/images/SG_theory.jpeg'
-preprinturl: '<https://arxiv.org/abs/2404.14964>'
-codeurl: '<https://github.com/fmi-basel/surrogate-gradient-theory>'
+preprinturl: 'https://arxiv.org/abs/2404.14964'
+codeurl: 'https://github.com/fmi-basel/surrogate-gradient-theory'
 citation: '<b>Gygax, Julia</b> & Zenke, Friedemann.'
 ---
