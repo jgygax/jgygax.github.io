@@ -16,6 +16,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
 
 
 ## News
+- **2025-03-20:** Our paper [*Elucidating the Theoretical Underpinnings of Surrogate Gradient Learning in Spiking Neural Networks*](https://doi.org/10.1162/neco_a_01752) was published in [Neural Computation](https://direct.mit.edu/neco)
 - **2024-10-26:** Tengjun Liu, Julian Rossbroich and I [won first prize at the IEEE BiOCAS 2024 neural decoding challenge](https://zenkelab.org/2024/10/tengjun-julia-and-julian-score-first-prize-at-the-biocas-neural-decoding-challenge/) for our work on [*efficient cortical spike train decoding with recurrent spiking neural networks*](https://arxiv.org/abs/2409.01762) achieving the best trade-off between decoding accuracy and computational cost.
 - **2024-10-01:** [Poster](https://abstracts.g-node.org/conference/BC24/abstracts#/uuid/efc98de0-af3b-440c-8112-1cab60d0a49d) at [Bernstein Conference 2024](https://bernstein-network.de/en/bernstein-conference/) - *Efficient cortical spike train decoding for brain-machine interface implants with recurrent spiking neural networks* (joint work with Tengjun Liu and Julian Rosbroich)
 - **2024-09-20:** Tengjun Liu, Julian Rossbroich and I [won the Ruth Chiquet Prize](https://zenkelab.org/2024/09/congratulations/) for our work on [*efficient cortical spike train decoding with spiking neural networks*](https://arxiv.org/abs/2409.01762). The [Ruth Chiquet prize](https://www.fmi.ch/research/awards-honors/chiquet-originality-prize.html) is awarded to honor research ingenuity.
