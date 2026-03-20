@@ -14,7 +14,37 @@ I completed my master's degree in biomedical engineering at [ETH Zürich](https:
 
 Before that, I received a bachelor's degree in electrical engineering and information technology from [ETH Zürich](https://ee.ethz.ch/de/). During my final year, I was a member of the [Cardex focus project](https://www.facebook.com/cardex.ethz) team. We developed a transcatheter mitral valve repair simulator as a novel training technology for cardiovascular interventions (see [Zimmermann et al, 2021, Supplementary Material 3 and 4](https://link.springer.com/article/10.1007/s13239-021-00549-4\#Sec11) for a video of our cardex simulator in action).
 
----
+
+## Education
+
+<div style="margin-top: 12px;">
+
+  <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 16px;">
+    <i class="fas fa-graduation-cap" style="margin-top: 4px; font-size: 20px; flex-shrink: 0;"></i>
+    <div>
+      <span>PhD student in Computational Neuroscience with Friedemann Zenke </span><br>
+      <span style="color: grey; font-size: 0.9em;">Friedrich Miescher Institute | University of Basel</span>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 16px;">
+    <i class="fas fa-graduation-cap" style="margin-top: 4px; font-size: 20px; flex-shrink: 0;"></i>
+    <div>
+      <span>MSc Biomedical Engineering, 2022</span><br>
+      <span style="color: grey; font-size: 0.9em;">ETH Zürich</span>
+    </div>
+  </div>
+
+  <div style="display: flex; align-items: flex-start; gap: 12px; margin-bottom: 16px;">
+    <i class="fas fa-graduation-cap" style="margin-top: 4px; font-size: 20px; flex-shrink: 0;"></i>
+    <div>
+      <span>BSc Electrical Engineering and Information Technology, 2019</span><br>
+      <span style="color: grey; font-size: 0.9em;">ETH Zürich</span>
+    </div>
+  </div>
+
+</div>
+
 
 ## Featured publications
 
@@ -38,7 +68,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
   </div>
 </div>
 
----
+
 
 ## News
 ### 2026
@@ -70,7 +100,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
 ### 2022
 - **2022-12-31:** Our paper [*Fluctuation-driven initialization for spiking neural network training*](https://iopscience.iop.org/article/10.1088/2634-4386/ac97bb) was selected as one of the [Highlights of 2022](https://iopscience.iop.org/journal/2634-4386/page/2022_Highlights) in the IOP Neuromorphic Computing and Engineering journal
 - **2022-12-08:** Our paper [*Fluctuation-driven initialization for spiking neural network training*](https://iopscience.iop.org/article/10.1088/2634-4386/ac97bb) was published in [Neuromorphic Computing and Engineering](https://iopscience.iop.org/journal/2634-4386) (joint work with Julian Rossbroich)
-- **2022-09-14:** Poster at [Bernstein Conference 2022](https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/2022/), joint work with [Julian Rossbroich](https://jrossbroich.com/) - *Fluctuation-driven initialization for spiking neural network training*
+- **2022-09-14:** Poster at [Bernstein Conference 2022](https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2022-2/), joint work with [Julian Rossbroich](https://jrossbroich.com/) - *Fluctuation-driven initialization for spiking neural network training*
 
 ### 2021
 - **2021-11-03:** [Talk](https://www.youtube.com/watch?v=vC5EHUt7dQs&list=PL09WqqDbQWHEqm1_3a620tKUKnC6FgBrG&index=11) at [SNUFA 2021](http://snufa.net/2021/abstracts#optimal-initialization-strategies-for-deep-spiking-neural-networks) - *Optimal initialization strategies for deep spiking neural networks*
