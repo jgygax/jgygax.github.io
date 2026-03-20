@@ -111,7 +111,20 @@ blockquote {
 
 /* links */
 
+// a {
+//   &:focus {
+//     @extend %tab-focus;
+//   }
+
+//   &:hover,
+//   &:active {
+//     outline: 0;
+//   }
+// }
+
 a {
+  color: $link-color;  /* or a hardcoded hex like #52adc8 */
+
   &:focus {
     @extend %tab-focus;
   }
@@ -119,6 +132,7 @@ a {
   &:hover,
   &:active {
     outline: 0;
+    color: darken($link-color, 10%);  /* optional: slightly darker on hover */
   }
 }
 
