@@ -19,7 +19,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
 ## Featured publications
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 24px;">
-  <img src="/images/SG_theory.jpeg" style="width: 220px; flex-shrink: 0;" />
+  <img src="/images/SG_theory.jpeg" style="width: 300px; flex-shrink: 0;" />
   <div>
     <strong>Elucidating the Theoretical Underpinnings of Surrogate Gradient Learning in Spiking Neural Networks</strong><br>
     Julia Gygax & Friedemann Zenke, Neural Computation 2025<br>
@@ -29,7 +29,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 16px; margin-bottom: 24px;">
-  <img src="/images/spikeinit.jpeg" style="width: 220px; flex-shrink: 0;" />
+  <img src="/images/spikeinit.jpeg" style="width: 300px; flex-shrink: 0;" />
   <div>
     <strong>Fluctuation-driven initialization for spiking neural network training</strong><br>
     Julian Rossbroich*, Julia Gygax* & Friedemann Zenke, Neuromorphic Computing and Engineering 2022<br>
