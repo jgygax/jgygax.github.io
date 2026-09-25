@@ -82,6 +82,7 @@ Before that, I received a bachelor's degree in electrical engineering and inform
 ### 2025
 - **2025-11-05:** [Flash talk](https://youtu.be/ucL5AvmdD1E?si=dP9BAlz_Fy48HhFB&t=936) and [poster](https://snufa.net/2025/abstracts/julia-gygax-emerging.html) at [SNUFA 2025](https://snufa.net/2025/) - *Emerging assembly structures in trained spiking neural networks*
 - **2025-09-30:** [Poster](https://abstracts.g-node.org/conference/BC25/abstracts#/uuid/7fac6f63-5f92-484b-9eb9-f1a27c95c332) at the [Bernstein Conference 2025](https://bernstein-network.de/en/bernstein-conference/past-future-bernstein-conferences/bernstein-conference-2025/) - *Emerging assembly structures in trained spiking neural networks*
+- **2025-04-05:** Workshop talk at the [SCNAT Life Sciences Symposium 2025](https://scnat.ch/en/uuid/i/c91dcb73-dc65-5402-aa30-1f3387cb9c3f-Life_Sciences_Symposium_2025) for high school teachers together with [Atena](https://ashenagmohammadi.netlify.app/) - *[How does the brain learn and compute?](https://www.biovalley-college.net/life-sciences-symposium/r%C3%BCckblick-2025-ch/)*
 - **2025-03-20:** Our paper [*Elucidating the Theoretical Underpinnings of Surrogate Gradient Learning in Spiking Neural Networks*](https://doi.org/10.1162/neco_a_01752) was published in [Neural Computation](https://direct.mit.edu/neco)
 
 ### 2024
